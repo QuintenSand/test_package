@@ -1,0 +1,14 @@
+---
+title: "Test quarto doc"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Test if the function will be rendered:
+
+```{r}
+test_function(TRUE)
+```
+
